@@ -2,9 +2,11 @@
 
 #PLAYLISTV: pltv-logo="https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/gromit-npower-7.89.jpg" pltv-name="canais aberto" pltv-description="Lista IPTV" pltv-cover="https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/gromit-npower-7.89.jpg" pltv-author="Aufi" pltv-email="antonio.jimmy@gmail.com"
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://caikron.com.br/player/a12/tv/logotv.png" group-title="canais aberto",TV Aparecida
+#EXTINF:-1 tvg-id="Aparecida" tvg-logo="http://caikron.com.br/player/a12/tv/logotv.png" group-title="canais aberto",TV Aparecida
 http://69.46.0.171:8081/tvap/tvap/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RIC-SC" tvg-logo="https://ricmais.com.br/sc/site/images/ricmais_logo.png" group-title="canais aberto",RIC Mais (SC)
+blob:https://caikron.live/ae5b873e-0c79-4d4a-8374-1b6176ca950d
 
 
 
